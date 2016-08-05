@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 透明 -->
+    <color name="base_transparent">#00000000</color>
+    <!-- 白色 -->
+    <color name="base_white">#FFFFFF</color>
+    <!-- 象牙色 -->
+    <color name="base_ivory">#FFFFF0</color>
+    <!-- 亮黄色 -->
+    <color name="base_lightyellow">#FFFFE0</color>
+    <!-- 黄色 -->
+    <color name="base_yellow">#FFFF00</color>
+    <!-- 雪白色 -->
+    <color name="base_snow">#FFFAFA</color>
+    <!-- 花白色 -->
+    <color name="base_floralwhite">#FFFAF0</color>
+    <!-- 柠檬绸色 -->
+    <color name="base_lemonchiffon">#FFFACD</color>
+    <!-- 米绸色 -->
+    <color name="base_cornsilk">#FFF8DC</color>
+    <!-- 海贝色 -->
+    <color name="base_seashell">#FFF5EE</color>
+    <!-- 淡紫红 -->
+    <color name="base_lavenderblush">#FFF0F5</color>
+    <!-- 番木色 -->
+    <color name="base_papayawhip">#FFEFD5</color>
+    <!-- 白杏色 -->
+    <color name="base_blanchedalmond">#FFEBCD</color>
+    <!-- 浅玫瑰色 -->
+    <color name="base_mistyrose">#FFE4E1</color>
+    <!-- 桔黄色 -->
+    <color name="base_bisque">#FFE4C4</color>
+    <!-- 鹿皮色 -->
+    <color name="base_moccasin">#FFE4B5</color>
+    <!-- 纳瓦白 -->
+    <color name="base_navajowhite">#FFDEAD</color>
+    <!-- 桃色 -->
+    <color name="base_peachpuff">#FFDAB9</color>
+    <!-- 金色 -->
+    <color name="base_gold">#FFD700</color>
+    <!-- 粉红色 -->
+    <color name="base_pink">#FFC0CB</color>
+    <!-- 亮粉红色 -->
+    <color name="base_lightpink">#FFB6C1</color>
+    <!-- 橙色 -->
+    <color name="base_orange">#FFA500</color>
+    <!-- 亮肉色 -->
+    <color name="base_lightsalmon">#FFA07A</color>
+    <!-- 暗桔黄色 -->
+    <color name="base_darkorange">#FF8C00</color>
+    <!-- 珊瑚色 -->
+    <color name="base_coral">#FF7F50</color>
+    <!-- 热粉红色 -->
+    <color name="base_hotpink">#FF69B4</color>
+    <!-- 西红柿色 -->
+    <color name="base_tomato">#FF6347</color>
+    <!-- 红橙色 -->
+    <color name="base_orangered">#FF4500</color>
+    <!-- 深粉红色 -->
+    <color name="base_deeppink">#FF1493</color>
+    <!-- 紫红色 -->
+    <color name="base_fuchsia">#FF00FF</color>
+    <!-- 红紫色 -->
+    <color name="base_magenta">#FF00FF</color>
+    <!-- 红色 -->
+    <color name="base_red">#FF0000</color>
+    <!-- 老花色 -->
+    <color name="base_oldlace">#FDF5E6</color>
+    <!-- 亮金黄色 -->
+    <color name="base_lightgoldenrodyellow">#FAFAD2</color>
+    <!-- 亚麻色 -->
+    <color name="base_linen">#FAF0E6</color>
+    <!-- 古董白 -->
+    <color name="base_antiquewhite">#FAEBD7</color>
+    <!-- 鲜肉色 -->
+    <color name="base_salmon">#FA8072</color>
+    <!-- 幽灵白 -->
+    <color name="base_ghostwhite">#F8F8FF</color>
+    <!-- 薄荷色 -->
+    <color name="base_mintcream">#F5FFFA</color>
+    <!-- 烟白色 -->
+    <color name="base_whitesmoke">#F5F5F5</color>
+    <!-- 米色 -->
+    <color name="base_beige">#F5F5DC</color>
+    <!-- 浅黄色 -->
+    <color name="base_wheat">#F5DEB3</color>
+    <!-- 沙褐色 -->
+    <color name="base_sandybrown">#F4A460</color>
+    <!-- 天蓝色 -->
+    <color name="base_azure">#F0FFFF</color>
+    <!-- 蜜色 -->
+    <color name="base_honeydew">#F0FFF0</color>
+    <!-- 艾利斯兰 -->
+    <color name="base_aliceblue">#F0F8FF</color>
+    <!-- 黄褐色 -->
+    <color name="base_khaki">#F0E68C</color>
+    <!-- 亮珊瑚色 -->
+    <color name="base_lightcoral">#F08080</color>
+    <!-- 苍麒麟色 -->
+    <color name="base_palegoldenrod">#EEE8AA</color>
+    <!-- 紫罗兰色 -->
+    <color name="base_violet">#EE82EE</color>
+    <!-- 暗肉色 -->
+    <color name="base_darksalmon">#E9967A</color>
+    <!-- 淡紫色 -->
+    <color name="base_lavender">#E6E6FA</color>
+    <!-- 亮青色 -->
+    <color name="base_lightcyan">#E0FFFF</color>
+    <!-- 实木色 -->
+    <color name="base_burlywood">#DEB887</color>
+    <!-- 洋李色 -->
+    <color name="base_plum">#DDA0DD</color>
+    <!-- 淡灰色 -->
+    <color name="base_gainsboro">#DCDCDC</color>
+    <!-- 暗深红色 -->
+    <color name="base_crimson">#DC143C</color>
+    <!-- 苍紫罗兰色 -->
+    <color name="base_palevioletred">#DB7093</color>
+    <!-- 金麒麟色 -->
+    <color name="base_goldenrod">#DAA520</color>
+    <!-- 淡紫色 -->
+    <color name="base_orchid">#DA70D6</color>
+    <!-- 蓟色 -->
+    <color name="base_thistle">#D8BFD8</color>
+    <!-- 亮灰色 -->
+    <color name="base_lightgray">#D3D3D3</color>
+    <!-- 亮灰色 -->
+    <color name="base_lightgrey">#D3D3D3</color>
+    <!-- 茶色 -->
+    <color name="base_tan">#D2B48C</color>
+    <!-- 巧可力色 -->
+    <color name="base_chocolate">#D2691E</color>
+    <!-- 秘鲁色 -->
+    <color name="base_peru">#CD853F</color>
+    <!-- 印第安红 -->
+    <color name="base_indianred">#CD5C5C</color>
+    <!-- 中紫罗兰色 -->
+    <color name="base_mediumvioletred">#C71585</color>
+    <!-- 银色 -->
+    <color name="base_silver">#C0C0C0</color>
+    <!-- 暗黄褐色 -->
+    <color name="base_darkkhaki">#BDB76B</color>
+    <!-- 褐玫瑰红 -->
+    <color name="base_rosybrown">#BC8F8F</color>
+    <!-- 中粉紫色 -->
+    <color name="base_mediumorchid">#BA55D3</color>
+    <!-- 暗金黄色 -->
+    <color name="base_darkgoldenrod">#B8860B</color>
+    <!-- 火砖色 -->
+    <color name="base_firebrick">#B22222</color>
+    <!-- 粉蓝色 -->
+    <color name="base_powderblue">#B0E0E6</color>
+    <!-- 亮钢兰色 -->
+    <color name="base_lightsteelblue">#B0C4DE</color>
+    <!-- 苍宝石绿 -->
+    <color name="base_paleturquoise">#AFEEEE</color>
+    <!-- 黄绿色 -->
+    <color name="base_greenyellow">#ADFF2F</color>
+    <!-- 亮蓝色 -->
+    <color name="base_lightblue">#ADD8E6</color>
+    <!-- 暗灰色 -->
+    <color name="base_darkgray">#A9A9A9</color>
+    <!-- 暗灰色 -->
+    <color name="base_darkgrey">#A9A9A9</color>
+    <!-- 褐色 -->
+    <color name="base_brown">#A52A2A</color>
+    <!-- 赭色 -->
+    <color name="base_sienna">#A0522D</color>
+    <!-- 暗紫色 -->
+    <color name="base_darkorchid">#9932CC</color>
+    <!-- 苍绿色 -->
+    <color name="base_palegreen">#98FB98</color>
+    <!-- 暗紫罗兰色 -->
+    <color name="base_darkviolet">#9400D3</color>
+    <!-- 中紫色 -->
+    <color name="base_mediumpurple">#9370DB</color>
+    <!-- 亮绿色 -->
+    <color name="base_lightgreen">#90EE90</color>
+    <!-- 暗海兰色 -->
+    <color name="base_darkseagreen">#8FBC8F</color>
+    <!-- 重褐色 -->
+    <color name="base_saddlebrown">#8B4513</color>
+    <!-- 暗洋红 -->
+    <color name="base_darkmagenta">#8B008B</color>
+    <!-- 暗红色 -->
+    <color name="base_darkred">#8B0000</color>
+    <!-- 紫罗兰蓝色 -->
+    <color name="base_blueviolet">#8A2BE2</color>
+    <!-- 亮天蓝色 -->
+    <color name="base_lightskyblue">#87CEFA</color>
+    <!-- 天蓝色 -->
+    <color name="base_skyblue">#87CEEB</color>
+    <!-- 灰色 -->
+    <color name="base_gray">#808080</color>
+    <!-- 灰色 -->
+    <color name="base_grey">#808080</color>
+    <!-- 橄榄色 -->
+    <color name="base_olive">#808000</color>
+    <!-- 紫色 -->
+    <color name="base_purple">#800080</color>
+    <!-- 粟色 -->
+    <color name="base_maroon">#800000</color>
+    <!-- 碧绿色 -->
+    <color name="base_aquamarine">#7FFFD4</color>
+    <!-- 黄绿色 -->
+    <color name="base_chartreuse">#7FFF00</color>
+    <!-- 草绿色 -->
+    <color name="base_lawngreen">#7CFC00</color>
+    <!-- 中暗蓝色 -->
+    <color name="base_mediumslateblue">#7B68EE</color>
+    <!-- 亮蓝灰 -->
+    <color name="base_lightslategray">#778899</color>
+    <!-- 亮蓝灰 -->
+    <color name="base_lightslategrey">#778899</color>
+    <!-- 灰石色 -->
+    <color name="base_slategray">#708090</color>
+    <!-- 灰石色 -->
+    <color name="base_slategrey">#708090</color>
+    <!-- 深绿褐色 -->
+    <color name="base_olivedrab">#6B8E23</color>
+    <!-- 石蓝色 -->
+    <color name="base_slateblue">#6A5ACD</color>
+    <!-- 暗灰色 -->
+    <color name="base_dimgray">#696969</color>
+    <!-- 暗灰色 -->
+    <color name="base_dimgrey">#696969</color>
+    <!-- 中绿色 -->
+    <color name="base_mediumaquamarine">#66CDAA</color>
+    <!-- 菊兰色 -->
+    <color name="base_cornflowerblue">#6495ED</color>
+    <!-- 军兰色 -->
+    <color name="base_cadetblue">#5F9EA0</color>
+    <!-- 暗橄榄绿 -->
+    <color name="base_darkolivegreen">#556B2F</color>
+    <!-- 靛青色 -->
+    <color name="base_indigo">#4B0082</color>
+    <!-- 中绿宝石 -->
+    <color name="base_mediumturquoise">#48D1CC</color>
+    <!-- 暗灰蓝色 -->
+    <color name="base_darkslateblue">#483D8B</color>
+    <!-- 钢兰色 -->
+    <color name="base_steelblue">#4682B4</color>
+    <!-- 皇家蓝 -->
+    <color name="base_royalblue">#4169E1</color>
+    <!-- 青绿色 -->
+    <color name="base_turquoise">#40E0D0</color>
+    <!-- 中海蓝 -->
+    <color name="base_mediumseagreen">#3CB371</color>
+    <!-- 橙绿色 -->
+    <color name="base_limegreen">#32CD32</color>
+    <!-- 暗瓦灰色 -->
+    <color name="base_darkslategray">#2F4F4F</color>
+    <!-- 暗瓦灰色 -->
+    <color name="base_darkslategrey">#2F4F4F</color>
+    <!-- 海绿色 -->
+    <color name="base_seagreen">#2E8B57</color>
+    <!-- 森林绿 -->
+    <color name="base_forestgreen">#228B22</color>
+    <!-- 亮海蓝色 -->
+    <color name="base_lightseagreen">#20B2AA</color>
+    <!-- 闪兰色 -->
+    <color name="base_dodgerblue">#1E90FF</color>
+    <!-- 中灰兰色 -->
+    <color name="base_midnightblue">#191970</color>
+    <!-- 浅绿色 -->
+    <color name="base_aqua">#00FFFF</color>
+    <!-- 青色 -->
+    <color name="base_cyan">#00FFFF</color>
+    <!-- 春绿色 -->
+    <color name="base_springgreen">#00FF7F</color>
+    <!-- 酸橙色 -->
+    <color name="base_lime">#00FF00</color>
+    <!-- 中春绿色 -->
+    <color name="base_mediumspringgreen">#00FA9A</color>
+    <!-- 暗宝石绿 -->
+    <color name="base_darkturquoise">#00CED1</color>
+    <!-- 深天蓝色 -->
+    <color name="base_deepskyblue">#00BFFF</color>
+    <!-- 暗青色 -->
+    <color name="base_darkcyan">#008B8B</color>
+    <!-- 水鸭色 -->
+    <color name="base_teal">#008080</color>
+    <!-- 绿色 -->
+    <color name="base_green">#008000</color>
+    <!-- 暗绿色 -->
+    <color name="base_darkgreen">#006400</color>
+    <!-- 蓝色 -->
+    <color name="base_blue">#0000FF</color>
+    <!-- 中兰色 -->
+    <color name="base_mediumblue">#0000CD</color>
+    <!-- 暗蓝色 -->
+    <color name="base_darkblue">#00008B</color>
+    <!-- 海军色 -->
+    <color name="base_navy">#000080</color>
+    <!-- 黑色 -->
+    <color name="base_black">#000000</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">自组网模块测试</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="action_save">保存</string>
+    <string name="title_activity_list">频表</string>
+    <string name="title_activity_node_settings">节点基本配置</string>
+    <string name="title_activity_menu">测试菜单</string>
+
+</resources>

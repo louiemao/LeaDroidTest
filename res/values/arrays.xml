@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mode">
+        <item>定频</item>
+        <item>跳频</item>
+    </string-array>
+    <string-array name="syncType">
+        <item>自同步</item>
+        <item>外同步</item>
+    </string-array>
+    <string-array name="speed">
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>512kbps</item>
+        <item>1024kbps</item>
+        <item>2048kbps</item>
+        <item>256kbps（抗干扰）</item>
+        <item>512kbps（抗干扰）</item>
+    </string-array>
+    <string-array name="dataType">
+        <item>32字节</item>
+        <item>64字节</item>
+        <item>128字节</item>
+        <item>256字节</item>
+        <item>512字节</item>
+    </string-array>
+    <string-array name="businessType">
+        <item>语音</item>
+        <item>报文</item>
+        <item>文件</item>
+    </string-array>
+    <string-array name="diffuseType">
+        <item>单播</item>
+        <item>组播</item>
+        <item>广播</item>
+    </string-array>
+    <string-array name="networkSpeedType">
+        <item>128kbps</item>
+        <item>256kbps</item>
+    </string-array>
+    <string-array name="levelType">
+        <item>营长</item>
+        <item>连长</item>
+        <item>排长</item>
+        <item>班长</item>
+        <item>士兵</item>
+    </string-array>
+    <string-array name="nodeType">
+        <item>簇头</item>
+        <item>普通</item>
+    </string-array>
+
+</resources>
